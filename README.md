@@ -10,4 +10,9 @@
 
   
   Use PCA for feature extractions and dimension reduction.
+
+- **handcrafted_feature.py**
+
+  
+  Calculate Handcrafted feature descriptors and show its visualisation.
   
