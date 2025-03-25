@@ -16,3 +16,8 @@
   
   Calculate Handcrafted feature descriptors and show its visualisation.
   
+  
+- **group_assignment1.ipynb**
+
+  
+  A messy .ipynb file, the structure of which aligns with the assignment structure requirement
