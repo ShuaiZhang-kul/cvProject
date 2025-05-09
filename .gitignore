@@ -1,0 +1,5 @@
+.vscode/
+.venv/
+kul-computer-vision-ga-2-2025/
+*.zip
+*.keras
